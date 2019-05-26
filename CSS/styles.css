@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+	background: black;
+	border-color: white;
+}
+
+tr {
+	
+}
+td {
+	width: 100px;
+	height: 100px;
+	background: white;
+}
